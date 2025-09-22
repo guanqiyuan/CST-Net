@@ -1,6 +1,6 @@
 #  <center> Rethinking Nighttime Image Deraining via Learnable Color Space Transformation  [NeurIPS 2025]
 
-> [Qiyuan Guan](https://guanqiyuan.github.io/)* <sup>1</sup>, [Xiang Chen](https://cschenxiang.github.io/)* <sup>2</sup>, Guiyue Jin <sup>1</sup>, Jiyu Jin <sup>1</sup>, Shumin Fan <sup>3</sup>,[Tianyu Song](https://scholar.google.com/citations?user=wA3Op6cAAAAJ&hl=zh-CN) <sup>3</sup>, Jinshan Pan <sup>2</sup>
+> [Qiyuan Guan](https://guanqiyuan.github.io/)* <sup>1</sup>, [Xiang Chen](https://cschenxiang.github.io/)* <sup>2</sup>, Guiyue Jin <sup>1</sup>, Jiyu Jin <sup>1</sup>, Shumin Fan <sup>3</sup>, [Tianyu Song](https://scholar.google.com/citations?user=wA3Op6cAAAAJ&hl=zh-CN) <sup>3</sup>, Jinshan Pan <sup>2</sup>
 >
 > Dalian Polytechnic University<sup>1</sup>, Nanjing University of Science and Technology<sup>2</sup>, Dalian Martime University<sup>3</sup>
 
