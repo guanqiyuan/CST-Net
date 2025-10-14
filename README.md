@@ -15,9 +15,10 @@
 
 ## ⛳️ To do
 
+* ✅ Release the code
 * ✅ Release the visual results
 * ⬜ Release the dataset
-* ⬜ Release the code
+
 
 <!--
 ✅
