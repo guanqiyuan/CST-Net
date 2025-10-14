@@ -44,6 +44,7 @@
 
 
 ## 📷️ Visual Results
+We use the code provided by [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) for evaluation.
 
 >
 > 
@@ -61,6 +62,12 @@
 
 ---
 
+
+## 👍 Acknowledgement
+
+Thanks for their awesome works ([IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) and [NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain?tab=readme-ov-file))
+
+---
 <!--
 ## ❣ Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
