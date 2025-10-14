@@ -5,8 +5,8 @@ import thop
 from einops import rearrange
 
 
-import sys
-sys.path.append(".")
+# import sys
+# sys.path.append(".")
 
 from model_utils.mlp import INR
 from model_utils.RGB_YCbCr_tools import RGBToYCbCrTransform, YCbCrToRGBTransform
@@ -464,3 +464,4 @@ FPS_model = FPS(in_channels=3,
 
 
 CSTNet = Model_(CPS_model, FPS_model).cuda()
+
