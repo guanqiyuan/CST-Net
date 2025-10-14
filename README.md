@@ -43,8 +43,20 @@
 -->
 
 
+
+## 🛠 Setup
+* Type the command:
+```
+conda env create -f environment.yml
+conda activate CSTNet
+```
+* If torch1.10 download fails, please run the following command：
+```
+conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
+```
+
+
 ## 📷️ Visual Results
-We use the code provided by [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) for evaluation.
 
 >
 > 
@@ -65,23 +77,50 @@ Due to storage limitations, please contact us to obtain the Google Drive link.
 ---
 
 
+## 🧮 Evaluation
+
+#### ● Run the following code to obtain the output visual results
+
+```
+python test.py
+```
+And you can find the output visual results in the folder " results/test/  ".
+
+#### ● Install the environment
+We use the code provided by [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) for evaluation. Thanks to Chaofeng Chen!
+```
+pip install pyiqa
+```
+#### ● Run the following command to calculate the metrics
+
+```
+python cal_metrics.py --inp_imgs ./results --gt_imgs ./dataset/test/target --log path_save_log
+```
+
+
+## 💪 Training
+Run the following code to start training.
+```
+python train.py
+```
+
+
 ## 👍 Acknowledgement
 
 Thanks for their awesome works ([IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) and [NeRD-Rain](https://github.com/cschenxiang/NeRD-Rain?tab=readme-ov-file))
 
 ---
-<!--
+
 ## ❣ Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
-@article{guan2025weatherbench
-  title={WeatherBench: A Real-World Benchmark Dataset for All-in-One Adverse Weather Image Restoration},
-  author={Guan, Qiyuan and Yang, Qianfeng and Chen, Xiang and Song, Tianyu and Jin, Guiyue and Jin, Jiyu},
-  journal={arXiv preprint arXiv:2509.11642},
+@article{guan2025cstnet,
+  title={Rethinking Nighttime Image Deraining via Learnable Color Space Transformation},
+  author={Guan, Qiyuan and Chen, Xiang and Jin, Guiyue and Jin, Jiyu and Fan, Shumin and Song, Tianyu and Pan, Jinshan},
+  journal={NeurIPS},
   year={2025}
 }
 ```
--->
 
 
 ---
