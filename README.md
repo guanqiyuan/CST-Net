@@ -17,7 +17,7 @@
 
 * ✅ Release the code
 * ✅ Release the visual results
-* ⬜ Release the dataset
+* ✅ Release the dataset
 
 
 <!--
@@ -83,6 +83,8 @@ Due to storage limitations, please contact us to obtain the Google Drive link.
 
 ---
 
+
+<!--
 ## 📊 Pre-trained Models
 >
 | Datasets | Visual Results Download Link |
@@ -93,7 +95,7 @@ Due to storage limitations, please contact us to obtain the Google Drive link.
 | GTAV-NightRain | Google Drive / [Baidu Netdisk]() () |
 | RealRain1k | Google Drive / [Baidu Netdisk]() () |
 | RainDS-real | Google Drive / [Baidu Netdisk]() () |
-
+-->
 
 
 ## 🧮 Evaluation
