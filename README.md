@@ -8,9 +8,9 @@
 >
 > Dalian Polytechnic University<sup>1</sup>, Nanjing University of Science and Technology<sup>2</sup>, Dalian Martime University<sup>3</sup>
 
-<!--
-> [[Paper](https://arxiv.org/abs/2509.11642)]
--->
+
+> [[Paper](https://arxiv.org/abs/2510.17440)]
+
 
 > 
  **👉️ Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: [https://lowlevelcv.com/](https://lowlevelcv.com/)**
