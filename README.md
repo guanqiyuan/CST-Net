@@ -1,4 +1,8 @@
-#  <center> Rethinking Nighttime Image Deraining via Learnable Color Space Transformation  [NeurIPS 2025]
+
+ 
+ <div align=center> <img src="https://github.com/guanqiyuan/CST-Net/blob/main/figs/CST-Net.png" width="210px">
+ 
+ #  <center>  Rethinking Nighttime Image Deraining via Learnable Color Space Transformation  (NeurIPS 2025)
 
 > [Qiyuan Guan](https://guanqiyuan.github.io/)* <sup>1</sup>, [Xiang Chen](https://cschenxiang.github.io/)* <sup>2</sup>, Guiyue Jin <sup>1</sup>, Jiyu Jin <sup>1</sup>, [Shumin Fan](https://scholar.google.com/citations?user=WZv2NgoAAAAJ&hl=zh-CN&authuser=1) <sup>3</sup>, [Tianyu Song](https://scholar.google.com/citations?user=wA3Op6cAAAAJ&hl=zh-CN) <sup>3</sup>, [Jinshan Pan](https://jspan.github.io/) <sup>2</sup>
 >
