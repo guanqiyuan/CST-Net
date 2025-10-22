@@ -1,6 +1,6 @@
 
- 
- <div align=center> <img src="https://github.com/guanqiyuan/CST-Net/blob/main/figs/CST-Net.png" width="210px">
+
+ <div align=center> <img src="https://github.com/guanqiyuan/CST-Net/blob/main/figs/CST-Net.png" width="210px"> </div>
  
  #  <center>  Rethinking Nighttime Image Deraining via Learnable Color Space Transformation  (NeurIPS 2025)
 
