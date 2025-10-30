@@ -34,7 +34,7 @@
 ### ⬇️ HQ-NightRain Dataset Download
 | Download Link |
 |---------|
-| Google Drive / [Baidu Netdisk](https://pan.baidu.com/s/1gU2aI08UFzS3JLSl_l0GLw) (asht) |
+| [Google Drive](https://drive.google.com/drive/folders/1WZ3uIWkNkIHVLGDUo8OPmrsNI_hheIUT?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1gU2aI08UFzS3JLSl_l0GLw) (asht) |
 
 ---
 
