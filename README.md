@@ -145,7 +145,7 @@ If this work is helpful for your research, please consider citing the following 
   journal={Advances in Neural Information Processing Systems},
   volume={38},
   pages={3189--3225},
-  year={2026}
+  year={2025}
 }
 ```
 
