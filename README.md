@@ -139,11 +139,13 @@ Thanks for their awesome works ([IQA-PyTorch](https://github.com/chaofengc/IQA-P
 ## ❣ Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
-@article{guan2025cstnet,
-  title={Rethinking Nighttime Image Deraining via Learnable Color Space Transformation},
+@article{guan2026rethinking,
+  title={Rethinking nighttime image deraining via learnable color space transformation},
   author={Guan, Qiyuan and Chen, Xiang and Jin, Guiyue and Jin, Jiyu and Fan, Shumin and Song, Tianyu and Pan, Jinshan},
-  journal={NeurIPS},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={3189--3225},
+  year={2026}
 }
 ```
 
